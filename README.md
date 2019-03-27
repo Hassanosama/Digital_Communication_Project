@@ -1,12 +1,20 @@
 # Digital_Communication_Project
 Simulate the performance of different modulation schemes, BPSK, QPSK, FSK, QAM(16-64) in an AWGN environment.
+
 **BPSK**
+
 BPSK is a two phase modulation scheme, where the 0’s and 1’s in a binary message are represented by two different phase states in the carrier signal: θ=0∘ for binary 1 and θ=180∘ for binary 0.
+
 **QPSK**
+
 Quadrature Phase Shift Keying (QPSK) is a form of Phase Shift Keying in which two bits are modulated at once, selecting one of four possible carrier phase shifts (0, 90, 180, or 270 degrees). QPSK allows the signal to carry twice as much information as ordinary PSK using the same bandwidth.
+
 **FSK**
+
 FSK is a frequency modulation scheme in which digital information is transmitted through discrete frequency changes of a carrier signal.The technology is used for communication systems such as telemetry.
+
 **QAM**
+
 QAM is a signal in which two carriers shifted in phase by 90 degrees (i.e. sine and cosine) are modulated and combined. As a result of their 90° phase difference they are in quadrature and this gives rise to the name. Often one signal is called the In-phase or “I” signal, and the other is the quadrature or “Q” signal.
 
 ## AWGN Block sittings
