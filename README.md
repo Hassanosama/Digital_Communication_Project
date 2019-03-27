@@ -40,24 +40,99 @@ Simulate the performance of different modulation schemes, BPSK, QPSK, FSK, QAM(1
 
 **Block Diagram**
 
-![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/FSK/Figuers/Diagram.png)
+![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/FSK/Figures/Diagram.png)
 
 **Modulator [Before Noise]**
 
-![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/FSK/Figures/Before%20Noise.png)
+![Before Noise](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/FSK/Figures/Before%20Noise.png)
 
 **Demodulator [After Noise at -10 dB]**
 
-![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/FSK/Figures/After%20Noise%20at%20-10%20dB.png)
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/FSK/Figures/After%20Noise%20at%20-10%20dB.png)
 
 **Demodulator [After Noise at +10 dB]**
 
-![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/FSK/Figures/After%20Noise%20at%20+10%20dB.png)
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/FSK/Figures/After%20Noise%20at%20+10%20dB.png)
 
 **BER Diagram**
 
 # IN PROCESSING
 
+### QAM [Quadrature amplitude modulation]:
+**Paramerters**
+* Random Integer Generator Set size = 16, 64
+* M-ary number = 16, 64
+* Normalization method = Average Power
+* Phase offset (rad) = 0
+
+### QAM 16
+
+**Block Diagram**
+
+![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(16)/Figures/Diagram.png)
+
+**Modulator [Before Noise]**
+
+![Before Noise](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(16)/Figures/Before%20Noise.png)
+
+**Demodulator [After Noise at -10 dB]**
+
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(16)/Figures/After%20Noise%20at%20-10%20dB.png)
+
+**Demodulator [After Noise at +10 dB]**
+
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(16)/Figures/After%20Noise%20at%20+10%20dB.png)
+
+**BER Diagram**
+
+# IN PROCESSING
+
+### QAM 64
+
+**Block Diagram**
+
+![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(64)/Figures/Diagram.png)
+
+**Modulator [Before Noise]**
+
+![Before Noise](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(64)/Figures/Before%20Noise.png)
+
+**Demodulator [After Noise at -10 dB]**
+
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(64)/Figures/After%20Noise%20at%20-10%20dB.png)
+
+**Demodulator [After Noise at +10 dB]**
+
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(64)/Figures/After%20Noise%20at%20+10%20dB.png)
+
+**BER Diagram**
+
+# IN PROCESSING
+
+### QPSK [Quadrature Phase Shift Keying]:
+**Paramerters**
+* Random Integer Generator Set size = 4
+* Phase offset (rad) = pi/4
+
+**Block Diagram**
+
+![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QPSK/Figures/Diagram.png)
+
+**Modulator [Before Noise]**
+
+![Before Noise](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QPSK/Figures/Before%20Noise.png)
+
+**Demodulator [After Noise at -10 dB]**
+
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QPSK/Figures/After%20Noise%20at%20-10%20dB.png)
+
+**Demodulator [After Noise at +10 dB]**
+
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QPSK/Figures/After%20Noise%20at%20+10%20dB.png)
+
+**BER Diagram**
+
+# IN PROCESSING
 
 
 
