@@ -102,7 +102,7 @@ QAM is a signal in which two carriers shifted in phase by 90 degrees (i.e. sine 
 
 **BER Diagram**
 
-![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(16)/Figures/BER.png)
+![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(16)/Figures/BER.PNG)
 
 ### QAM 64
 
@@ -124,7 +124,7 @@ QAM is a signal in which two carriers shifted in phase by 90 degrees (i.e. sine 
 
 **BER Diagram**
 
-![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(64)/Figures/BER.png)
+![Diagram](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QAM%20(64)/Figures/BER.PNG)
 
 ### QPSK [Quadrature Phase Shift Keying]:
 **Paramerters**
@@ -149,7 +149,7 @@ QAM is a signal in which two carriers shifted in phase by 90 degrees (i.e. sine 
 
 **BER Diagram**
 
-![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QPSK/Figures/BER.png)
+![After-10](https://github.com/Hassanosama/Digital_Communication_Project/blob/master/QPSK/Figures/BER.PNG)
 
 
 
